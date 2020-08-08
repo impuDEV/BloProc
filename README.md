@@ -1,2 +1,2 @@
-# TexProc
-Some Text processor
+# BloProc
+Some Blog processor
