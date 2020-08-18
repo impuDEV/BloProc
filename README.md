@@ -1,2 +1,2 @@
 # BloProc
-Some Blog processor
+Some Content processor
